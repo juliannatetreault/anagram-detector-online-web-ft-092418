@@ -7,6 +7,6 @@ class Anagram
   end
   
   def match 
-    
+    if 
   end
 end
