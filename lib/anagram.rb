@@ -9,6 +9,6 @@ class Anagram
   def match(words) 
     if @word.select{ |w| w.words == words}
     else 
-      
+      words = []
   end
 end
