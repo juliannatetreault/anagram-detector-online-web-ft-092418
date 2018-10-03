@@ -7,6 +7,8 @@ class Anagram
   end
   
   def match(words) 
-    %w(words).select{ |w| w.words == words}
+    if %w(words).select{ |w| w.words == words}
+    else 
+      
   end
 end
