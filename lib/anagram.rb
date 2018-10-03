@@ -8,5 +8,7 @@ class Anagram
   
   def match 
     if 
+    else
+      []
   end
 end
