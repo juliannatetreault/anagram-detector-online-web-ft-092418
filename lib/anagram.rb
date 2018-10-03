@@ -7,7 +7,7 @@ class Anagram
   end
   
   def match(words) 
-    if %w(words).find_all{ |w| w.words == words}
+    if words.find_all{ |w| w.words == words}
     else 
       words = []
     end
