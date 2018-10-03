@@ -12,3 +12,4 @@ class Anagram
       words = []
   end
 end
+end
