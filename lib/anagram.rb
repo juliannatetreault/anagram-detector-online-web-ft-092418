@@ -10,6 +10,6 @@ class Anagram
     if @word.select{ |w| w.words == words}
     else 
       words = []
+    end
   end
-end
 end
