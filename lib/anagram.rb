@@ -7,6 +7,6 @@ class Anagram
   end
   
   def match(words) 
-    %w(words).select { |w| }
+    %w(words).select { |w| w}
   end
 end
